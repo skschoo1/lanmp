@@ -11,7 +11,7 @@ sk lanmp 一键安装包
 生效：service httpd restart
 sklamp结构
      mysql目录： /sk/server/mysql（默认密码：sk888）
-mysql data目录： /sk/server/data
+     mysql data目录： /sk/server/data
        php目录： /sk/server/php
     apache目录： /sk/server/apache
 命令一览：
