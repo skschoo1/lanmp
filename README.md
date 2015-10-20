@@ -19,3 +19,5 @@ sklamp结构   <br />
 apache命令： service httpd (start|stop|restart|reload|status)   <br />
 网站根目录：   <br />
 默认web根目录： /sk/wwwroot   <br />
+
+# LNMP 说明
